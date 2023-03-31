@@ -1,0 +1,19 @@
+
+.navbar{
+  display: flex;
+  justify-content: flex-end;
+  height: 60px;
+  background-color: black;
+  align-items: center;
+  margin-bottom: 50px;
+}
+
+.navbar a{
+  margin-right: 50px;
+  text-decoration: none;
+  color: white;
+  font-size: 25px;
+}
+
+
+

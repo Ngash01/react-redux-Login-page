@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.App{
+  text-align: center;
+}
+
+
+p{
+  font-size: 25px;
+}
+
+.login_button{
+  font-size: 20px;
+  cursor: pointer;
+}
